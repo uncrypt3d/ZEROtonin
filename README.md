@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mineek/Serotonin/main/artwork/serotonin-precomposed.png" height="128" width="128" style="border-radius:25%">
-   <h1> ~~Serotonin~~ ( ZEROtonin )
+   <h1> ~~ Serotonin ~~ 
+      ( ZEROtonin )
       <br/> not/semi-jailbreak
    </h1>
 </div>
